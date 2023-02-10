@@ -1,0 +1,7 @@
+[gd_scene format=2]
+
+[node name="Node2D" type="Node2D"]
+scale = Vector2( 23047.5, 6392.66 )
+
+[node name="KinematicBody2D" type="KinematicBody2D" parent="."]
+scale = Vector2( 1.6767e+09, 1.28595e+09 )
